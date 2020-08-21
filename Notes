@@ -1,0 +1,7 @@
+Install npm and node js 
+
+npm install -g @angular/cli
+
+Reference : https://www.youtube.com/watch?v=k5E2AVpwsko (time : 12 mins)
+
+ng new hello-world
